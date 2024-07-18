@@ -33,7 +33,7 @@
 
         <argument
             android:name="note"
-            android:defaultValue="null"
+
             app:argType="com.rishva.roomdatabase_practiceapp.model.Note"
             app:nullable="true"/>
     </fragment>

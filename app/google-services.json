@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "279380650542",
+    "project_id": "notesapp-aa24c",
+    "storage_bucket": "notesapp-aa24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279380650542:android:519ef7cbd6ad3ae2d08dbf",
+        "android_client_info": {
+          "package_name": "com.rishva.roomdatabase_practiceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs_LQcFTOxfbEWkTrX-1_j9wfhfGcfp2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

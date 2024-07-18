@@ -4,7 +4,9 @@ plugins {
     //id ("kotlin-kapt")
     id ("kotlin-parcelize")
     id("com.google.devtools.ksp")
-    id ("androidx.navigation.safeargs")
+    id ("androidx.navigation.safeargs.kotlin")
+
+//    id("com.google.gms.google-services")
 
 }
 
@@ -67,6 +69,11 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2")
     implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.6.2")
     ksp("androidx.lifecycle:lifecycle-compiler:2.6.2")
+
+//    implementation(platform("com.google.firebase:firebase-bom:33.1.2"))
+//    implementation("com.google.firebase:firebase-analytics")
+//    implementation("com.google.firebase:firebase-crashlytics")
+
 
 
 }
